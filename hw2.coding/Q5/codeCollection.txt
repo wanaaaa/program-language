@@ -1,0 +1,15 @@
+(define FL (list cadr car cdr))
+(define L '((A B) (C D) (E F)) )
+;;
+(define (mapfun FL L)
+  (let mapLet( (FL FL) (L L) (rList '()) );variable end
+      ( if (null? L);if
+           rlist;then
+           (mapLet (cdr FL) (cdr L) (cons ((car FL) (car L) ) rList) );else
+       );let expression
+   );end of let
+
+  
+);end of define
+
+(mapfun FL L)
