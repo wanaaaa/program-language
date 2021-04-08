@@ -1,0 +1,12 @@
+> take broccoli
+> take apple
+> take crackers
+> go to attic
+> take doll
+> go to kitchen
+> go to office
+> open desk
+> open envelope
+> take key
+> go to kitchen
+> go to cellar
